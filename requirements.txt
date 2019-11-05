@@ -1,0 +1,4 @@
+requests
+BeautifulSoup
+Python3
+A text editor (e.g VSCode) or terminal
